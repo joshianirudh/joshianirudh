@@ -1,7 +1,7 @@
 # Hi there, I'm [Anirudh]([arthur](https://joshianirudh.github.io))! <img src="./wave.gif" width="30px">
 
 <a href="https://joshianirudh.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshianirudh&show_icons=true&theme=dark" alt="Anirudh's GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshianirudh&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Anirudh's GitHub Stats" />
 </a>
 
 \
