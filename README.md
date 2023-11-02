@@ -1,10 +1,5 @@
 # Hi there, I'm [Anirudh]([arthur](https://joshianirudh.github.io))! <img src="./wave.gif" width="30px">
 
-<a href="https://joshianirudh.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=joshianirudh&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Anirudh's GitHub Stats" />
-</a>
-
-\
 <a href="https://github.com/joshianirudh/ResumeParser-Classifier">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joshianirudh&repo=ResumeParser-Classifier&title_color=00184E&text_color=636568&icon_color=035DB4&bg_color=E9EBEE" />
 </a>
